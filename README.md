@@ -1,3 +1,4 @@
-# flutter
+# flutter Random english word Generator app 
 
-the first app from flutter docmentation 
+this is my firstapp  read flutter documentation
+that generate random english worde  generator app
